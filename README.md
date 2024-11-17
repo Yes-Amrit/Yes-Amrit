@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amrit Raj and I'm a Computer science student specialization in AI and Robotics, from Patna,Bihar,India</h2>
+<h2 align="left">Hi 👋! My name is Amrit Raj and I'm a Computer science student specialization in AI and Robotics</h2>
 
 ###
 
