@@ -1,5 +1,5 @@
 # 💫 About Me:
--💻 2nd-year college student with a strong foundation in web development (HTML, CSS, JavaScript, React) and problem solving.<br>-👨‍💻 Currently working on expertise MERN stack development.<br>-🔗 Recently cloned GitHub repository (Cynthia Ugwu's website).<br>-📚 Studying Computer science in specialization with Ai and Robotics.<br>-🚀 Passionate about building responsive, interactive web applications and exploring new technologies.<br><br>-⚡ Fun fact<br>       🎨 Aspiring artist who loves sketching and exploring new drawing styles.<br>       🎧 Music lover who codes best with a great playlist on.
+-💻 2nd-year college student with a strong foundation in web development (HTML, CSS, JavaScript, React) and problem solving.<br>-👨‍💻 Currently working on expertise MERN stack development.<br>-🔗 Recently cloned GitHub repository (Cynthia Ugwu's website).<br>-📚 Studying Computer science in specialization with Ai and Robotics.<br>-🚀 Passionate about building responsive, interactive web applications and exploring new technologies.<br><br>-⚡ Fun fact<br>       🎨 Aspiring artist who loves sketching and exploring new drawing styles.<br>      🎧 Music lover who codes best with a great playlist on.
 
 
 ## 🌐 Socials:
