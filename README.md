@@ -1,6 +1,9 @@
 # 💫 About Me:
 -💻 3rd-year college student with a strong foundation in web development (HTML, CSS, JavaScript, React) and problem solving.<br>-👨‍💻 Currently working on expertise MERN stack development.<br>-🔗 Recently interned at The Branded Buddies this summer as a frontend intern.<br>-📚 Studying Computer science in specialization with Ai and Robotics.<br>-🚀 Passionate about building responsive, interactive web applications and exploring new technologies.<br><br>-⚡ Fun fact<br>       🎨 Aspiring artist who loves sketching and exploring new drawing styles.<br>      🎧 Music lover who codes best with a great playlist on.
 
+![banner](https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_.amrit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-raj-a6b29b28a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/24405264/amrit-raj)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/bvgpfhwz-the-encoder) 
@@ -27,4 +30,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yes-Amrit&icon=2&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
