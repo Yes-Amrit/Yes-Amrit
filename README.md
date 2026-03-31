@@ -12,18 +12,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yes-Amrit&theme=react-dark&hide_border=true&area=true"/>
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yes-Amrit&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yes-Amrit&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yes-Amrit&theme=tokyonight"/>
-</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
