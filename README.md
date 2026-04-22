@@ -4,11 +4,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yes-Amrit&label=Profile%20views&color=0e75b6&style=flat" alt="amrit"/>
 </p>
-
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcode.card.workers.dev/<Amrit_001>?theme=dark&font=baloo&extension=null)
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <!-- ACTIVITY GRAPH -->
 
@@ -23,6 +18,9 @@
 <p align="center">
 <img src="https://ghchart.rshah.org/00ffff/Yes-Amrit" alt="Amrit Github chart" />
 </p>
+
+# LeetCode
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Amrit_001?ext=heatmap&v=1)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
