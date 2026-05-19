@@ -13,12 +13,6 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!-- CONTRIBUTION HEATMAP -->
-
-<p align="center">
-<img src="https://ghchart.rshah.org/00ffff/Yes-Amrit" alt="Amrit Github chart" />
-</p>
-
 # LeetCode
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Amrit_001?ext=heatmap&v=1)
 
@@ -46,9 +40,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,express,mongodb,postgres,tailwind,arduino,linux,git"/>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Yes-Amrit&theme=gruvbox" alt="Yes-Amrit" /></a> </p>
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
