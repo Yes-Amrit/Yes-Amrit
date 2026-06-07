@@ -1,40 +1,59 @@
-<!-- FUTURISTIC GITHUB DASHBOARD -->
 <!-- PROFILE VIEWS -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yes-Amrit&label=Profile%20views&color=0e75b6&style=flat" alt="amrit"/>
+  <img src="https://komarev.com/ghpvc/?username=Yes-Amrit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+<!-- TOP LANGUAGES -->
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-xi-seven-97.vercel.app/api/top-langs/?username=Yes-Amrit&layout=compact&theme=gruvbox"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
 <!-- ACTIVITY GRAPH -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yes-Amrit&theme=react-dark&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yes-Amrit&theme=react-dark&hide_border=true&area=true"
+  />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 # LeetCode
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Amrit_001?ext=heatmap&v=1)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Amrit_001?ext=heatmap&v=1" />
+</p>
+
+---
 
 <!-- CONTRIBUTION SNAKE -->
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-<!-- STREAK ENGINE -->
+<!-- STREAK -->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yes-Amrit&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yes-Amrit&theme=tokyonight&hide_border=true" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-<!-- SKILL ICONS -->
+<!-- SKILLS -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,mongodb,postgres,tailwind,docker,aws,linux,git" />
 </p>
@@ -79,10 +98,10 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
+</p>
